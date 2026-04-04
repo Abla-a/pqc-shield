@@ -1,0 +1,23 @@
+# LaTeX artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Vivado generated files
+*.jou
+*.str
+*.xpr
+*.bit
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+
+# System files
+.DS_Store
+Thumbs.db
+__pycache__/
