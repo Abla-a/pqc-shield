@@ -2,7 +2,7 @@
 
 **Author:** Abla BENMOUSSA MAHI — Electronics Engineering Student, University of Boumerdes, Algeria  
 **Type:** Licence Final Year Project (PFC)  
-**Timeline:** April – May 2026  
+**Timeline:** April – June 2026  
 **Status:** 🔵 In Progress
 
 ---
